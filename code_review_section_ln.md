@@ -4,8 +4,8 @@
 
 **Code Quality Assessment Worksheet**
 
-**Section: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	Score:\_\_\_\_\_\_\_\_\_\_\_\_**  
-**C\# / Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	Date: \_\_\_\_\_\_\_\_\_\_\_\_\_**
+**Section: 9 - Magnesium	Score:\_\_\_\_\_\_\_\_\_\_\_\_**  
+**C\# / Name: Azriel Jesse C. Ting, Kier Benedict Obaredes	Date: \_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Instructions:**
 
